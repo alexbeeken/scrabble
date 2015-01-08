@@ -1,0 +1,13 @@
+.container  {
+
+  width: 40%;
+  height: 40%;
+  align: center;
+
+}
+
+body {
+  padding-top: 100px;
+  background-image: url('/img/background.jpg');
+
+}
